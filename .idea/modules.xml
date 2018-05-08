@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/iSell.iml" filepath="$PROJECT_DIR$/.idea/iSell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isell-chart-web/isell-chart-web.iml" filepath="$PROJECT_DIR$/isell-chart-web/isell-chart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isell-common/isell-common.iml" filepath="$PROJECT_DIR$/isell-common/isell-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isell-customer-web/isell-customer-web.iml" filepath="$PROJECT_DIR$/isell-customer-web/isell-customer-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isell-goods-mgr/isell-goods-mgr.iml" filepath="$PROJECT_DIR$/isell-goods-mgr/isell-goods-mgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isell-goods-web/isell-goods-web.iml" filepath="$PROJECT_DIR$/isell-goods-web/isell-goods-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isell-order-web/isell-order-web.iml" filepath="$PROJECT_DIR$/isell-order-web/isell-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isell-store-web/isell-store-web.iml" filepath="$PROJECT_DIR$/isell-store-web/isell-store-web.iml" />
+    </modules>
+  </component>
+</project>
