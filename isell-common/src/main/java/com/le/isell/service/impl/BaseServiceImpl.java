@@ -3,7 +3,7 @@ package com.le.isell.service.impl;
 import com.le.isell.dao.BaseDao;
 import com.le.isell.entity.BaseModel;
 import com.le.isell.service.BaseService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.le.isell.util.pageutil.Page;
 
 import java.util.List;
 
@@ -11,9 +11,10 @@ import java.util.List;
  * Created by Administrator on 2018/5/7.
  */
 public class BaseServiceImpl<T, QT extends BaseModel> implements BaseService<T, QT> {
-    @Autowired
-    private BaseDao baseDao;
-
+    private BaseDao baseDao = null;
+    public void setDao(BaseDao baseDao){
+        this.baseDao = baseDao;
+    }
     @Override
     public int create(T t) {
         return baseDao.create(t);
@@ -35,7 +36,10 @@ public class BaseServiceImpl<T, QT extends BaseModel> implements BaseService<T, 
     }
 
     @Override
-    public List<T> getByConditionPage(QT qt) {
-        return baseDao.getByConditionPage(qt);
+    public Page<T> getByConditionPage(QT qt) {
+        List<T> list = baseDao.getByConditionPage(qt);
+        qt.getPage().setResult(list);
+
+        return qt.getPage();
     }
 }

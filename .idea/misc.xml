@@ -4,8 +4,9 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/isell-chart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/isell-cart-web" />
     <file type="web" url="file://$PROJECT_DIR$/isell-customer-web" />
+    <file type="web" url="file://$PROJECT_DIR$/isell-file-web" />
     <file type="web" url="file://$PROJECT_DIR$/isell-goods-mgr" />
     <file type="web" url="file://$PROJECT_DIR$/isell-order-web" />
     <file type="web" url="file://$PROJECT_DIR$/isell-store-web" />

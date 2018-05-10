@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="isell-file-web:war">
+    <output-path>$PROJECT_DIR$/isell-file-web/target</output-path>
+    <root id="archive" name="iSell.war">
+      <element id="artifact" artifact-name="isell-file-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -14,8 +14,14 @@ import org.springframework.transaction.annotation.Transactional;
 @Service
 @Transactional
 public class CustomerServiceImpl extends BaseServiceImpl<CustomerModel, CustomerQueryModel> implements CustomerService{
+
+    private CustomerDao customerDao = null;
+
     @Autowired
-    private CustomerDao customerDao;
+    public void setCustomerDao(CustomerDao customerDao) {
+        this.customerDao = customerDao;
+        super.setDao(customerDao);
+    }
 
     @Override
     public CustomerModel getByCustomerId(String customerId) {

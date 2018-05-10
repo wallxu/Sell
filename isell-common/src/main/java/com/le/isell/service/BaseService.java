@@ -1,8 +1,7 @@
 package com.le.isell.service;
 
 import com.le.isell.entity.BaseModel;
-
-import java.util.List;
+import com.le.isell.util.pageutil.Page;
 
 /**
  * Created by Administrator on 2018/5/7.
@@ -18,5 +17,5 @@ public interface BaseService<T, QT extends BaseModel> {
     //查询一个对象
     public T getByUuid(int uuid);
     //查询多个对象
-    public List<T> getByConditionPage(QT qt);
+    public Page<T> getByConditionPage(QT qt);
 }

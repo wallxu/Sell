@@ -3,7 +3,7 @@ package com.le.isell.entity;
 /**
  * Created by Administrator on 2018/5/7.
  */
-public class CustomerModel {
+public class CustomerModel extends BaseModel{
     private Integer uuid;
     private String customerId;
     private String pwd;

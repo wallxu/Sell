@@ -22,9 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="isell-cart-web" />
         <module name="isell-chart-web" />
         <module name="isell-common" />
         <module name="isell-customer-web" />
+        <module name="isell-file-web" />
         <module name="isell-goods-mgr" />
         <module name="isell-goods-web" />
         <module name="isell-order-web" />
@@ -33,9 +35,11 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="iSell" target="1.5" />
+      <module name="isell-cart-web" target="1.8" />
       <module name="isell-chart-web" target="1.8" />
       <module name="isell-common" target="1.8" />
       <module name="isell-customer-web" target="1.8" />
+      <module name="isell-file-web" target="1.8" />
       <module name="isell-goods-mgr" target="1.8" />
       <module name="isell-goods-web" target="1.8" />
       <module name="isell-order-web" target="1.8" />

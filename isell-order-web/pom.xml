@@ -18,10 +18,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.11</version>
-            <scope>test</scope>
+            <groupId>com.le.isell</groupId>
+            <artifactId>isell-common</artifactId>
+            <version>1.0.0</version>
         </dependency>
     </dependencies>
 

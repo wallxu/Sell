@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<!--通过这个配置文件，完成mybatis与数据库的连接  -->
+<configuration>
+    <settings>
+        <setting name="logImpl" value="STDOUT_LOGGING"/>
+    </settings>
+    <!-- 设置类的别名 -->
+    <typeAliases>
+        <typeAlias alias="OM" type="com.le.isell.entity.OrderModel"/>
+        <typeAlias alias="OQM" type="com.le.isell.entity.OrderQueryModel"/>
+        <typeAlias alias="ODM" type="com.le.isell.entity.OrderDetailModel"/>
+        <typeAlias alias="ODQM" type="com.le.isell.entity.OrderDetailQueryModel"/>
+        <!-- 根据包取别名，把包下面的所有类都按类名来取别名 -->
+        <!-- 这用可以简化代码量 -->
+    </typeAliases>
+
+
+</configuration>

@@ -1,11 +1,13 @@
 package com.le.isell.entity;
 
-import com.le.isell.util.page.Page;
+import com.le.isell.util.pageutil.Page;
+
+import java.io.Serializable;
 
 /**
  * Created by Administrator on 2018/5/7.
  */
-public class BaseModel {
+public class BaseModel implements Serializable{
     private Integer uuid;
     private Page page;
 

@@ -9,10 +9,11 @@
 		<module>isell-common</module>
 		<module>isell-goods-mgr</module>
 		<module>isell-goods-web</module>
-		<module>isell-chart-web</module>
+		<module>isell-cart-web</module>
 		<module>isell-store-web</module>
 		<module>isell-customer-web</module>
 		<module>isell-order-web</module>
+        <module>isell-file-web</module>
 	</modules>
 	<name>iSell Parent</name>
 
