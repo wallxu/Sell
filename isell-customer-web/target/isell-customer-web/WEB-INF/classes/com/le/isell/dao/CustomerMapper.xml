@@ -3,7 +3,7 @@
 
 <mapper namespace="com.le.isell.dao.CustomerDao">
 	
-	<!-- <cache type="org.mybatis.caches.ehcache.EhcacheCache"/> -->
+	 <cache type="org.mybatis.caches.ehcache.EhcacheCache"/>
 	
      <insert id="create" parameterType="CM">
      	insert into tb_customer (customerId,pwd,showName,trueName,registerTime) 

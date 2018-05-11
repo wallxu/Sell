@@ -1,0 +1,279 @@
+09:44:07.971 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+09:55:18.940 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+09:55:19.253 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+09:55:19.255 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+09:57:36.812 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+09:57:37.064 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+09:57:37.067 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+09:58:46.345 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+09:58:46.542 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+09:58:46.544 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:02:09.161 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:02:09.388 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:02:09.389 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:02:20.108 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:02:20.418 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:02:20.418 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:02:29.152 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:02:29.346 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:02:29.347 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:02:39.508 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:02:39.761 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:02:39.763 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:02:49.893 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:02:50.112 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:02:50.113 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:04:09.266 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:04:09.466 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:04:09.468 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:04:18.513 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:04:18.745 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:04:18.747 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:06:31.483 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:06:31.862 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:06:31.862 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:06:43.973 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:06:44.106 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:06:44.107 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:07:01.832 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:07:02.024 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:07:02.025 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:07:11.102 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:07:11.394 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:07:11.396 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:07:22.692 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:07:22.860 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:07:22.861 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:07:51.510 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:07:51.710 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:07:51.711 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:08:42.619 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:08:42.954 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:08:42.955 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:11:38.082 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:11:38.424 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:11:38.426 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:15:50.659 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:15:51.008 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:15:51.010 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:16:06.961 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:16:07.247 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:16:07.249 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:16:31.160 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:16:31.398 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:16:31.399 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:19:36.886 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:19:37.195 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:19:37.197 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:21:18.937 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:21:19.148 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:21:19.149 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:23:19.629 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:23:19.860 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:23:19.861 [PathWatcher-Thread[H:\ideaWorkSpace\iSell\isell-front-web (+7)]] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:24:41.508 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:24:41.792 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:24:41.794 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:26:43.864 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:26:44.219 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:26:44.221 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:30:05.392 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:30:05.819 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:30:05.821 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:37:37.022 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:37:37.537 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:37:37.539 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:38:53.883 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:38:54.283 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:38:54.285 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:44:04.996 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:44:05.280 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:44:05.281 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:46:50.095 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:46:50.352 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:46:50.353 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:47:02.799 [qtp1190724320-21] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+10:53:28.023 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:53:28.344 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:53:28.346 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:53:46.832 [qtp1506217195-15] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+10:55:31.341 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:55:31.678 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:55:31.680 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:56:24.629 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:56:24.918 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:56:24.920 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:56:32.251 [qtp629078509-20] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+11:00:56.249 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+11:00:56.584 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+11:00:56.615 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+11:00:56.618 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+11:00:56.626 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+11:00:56.627 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+11:00:56.631 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+11:00:56.638 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+11:00:56.643 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+11:00:56.647 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+11:00:56.920 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+11:00:56.921 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+11:00:56.921 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+11:00:56.926 [net.sf.ehcache.CacheManager@5618fc1f] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+11:00:56.944 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+11:00:56.993 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+11:00:56.998 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+11:00:57.117 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\CustomerMapper.xml]'
+11:00:57.523 [net.sf.ehcache.CacheManager@5618fc1f] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+11:01:05.167 [qtp1902499120-16] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+11:01:05.207 [qtp1902499120-16] DEBUG org.mybatis.spring.SqlSessionUtils -Creating a new SqlSession
+11:01:05.221 [qtp1902499120-16] DEBUG org.mybatis.spring.SqlSessionUtils -Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5bcb66b3]
+11:01:05.224 [qtp1902499120-16] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore miss for -517509779
+11:01:05.224 [qtp1902499120-16] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDao cache - Miss
+11:01:05.224 [qtp1902499120-16] DEBUG com.le.isell.dao.CustomerDao -Cache Hit Ratio [com.le.isell.dao.CustomerDao]: 0.0
+11:01:05.231 [qtp1902499120-16] DEBUG o.m.spring.transaction.SpringManagedTransaction -JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@22808af5] will be managed by Spring
+11:01:05.237 [qtp1902499120-16] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -==>  Preparing: select * from tb_customer where customerId=? 
+11:01:05.266 [qtp1902499120-16] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -==> Parameters: 2(String)
+11:01:05.290 [qtp1902499120-16] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -<==      Total: 1
+11:01:05.291 [qtp1902499120-16] DEBUG com.alibaba.druid.pool.PreparedStatementPool -{conn-10001, pstmt-20001} enter cache
+11:01:05.291 [qtp1902499120-16] DEBUG org.mybatis.spring.SqlSessionUtils -Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5bcb66b3]
+11:01:05.292 [qtp1902499120-16] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5bcb66b3]
+11:01:05.295 [qtp1902499120-16] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5bcb66b3]
+11:01:05.296 [qtp1902499120-16] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5bcb66b3]
+11:02:51.217 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+11:02:51.693 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+11:02:51.750 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+11:02:51.757 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+11:02:51.786 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+11:02:51.788 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+11:02:51.791 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+11:02:51.803 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+11:02:51.830 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+11:02:51.835 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+11:02:52.121 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+11:02:52.122 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+11:02:52.122 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+11:02:52.126 [net.sf.ehcache.CacheManager@6f22c1f1] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+11:02:52.143 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+11:02:52.164 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+11:02:52.168 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+11:02:52.534 [net.sf.ehcache.CacheManager@6f22c1f1] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+11:02:52.543 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\CustomerMapper.xml]'
+11:04:39.566 [qtp1789791855-16] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+11:05:12.167 [qtp1789791855-16] DEBUG org.mybatis.spring.SqlSessionUtils -Creating a new SqlSession
+11:05:12.501 [qtp1789791855-16] DEBUG org.mybatis.spring.SqlSessionUtils -Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2aeb6ece]
+11:05:12.562 [qtp1789791855-16] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore miss for -517509779
+11:05:12.565 [qtp1789791855-16] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDao cache - Miss
+11:05:12.568 [qtp1789791855-16] DEBUG com.le.isell.dao.CustomerDao -Cache Hit Ratio [com.le.isell.dao.CustomerDao]: 0.0
+11:05:12.781 [qtp1789791855-16] DEBUG o.m.spring.transaction.SpringManagedTransaction -JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@69c1a0bd] will be managed by Spring
+11:05:13.451 [qtp1789791855-16] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -==>  Preparing: select * from tb_customer where customerId=? 
+11:05:16.992 [qtp1789791855-16] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -==> Parameters: 2(String)
+11:05:19.538 [qtp1789791855-16] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -<==      Total: 1
+11:05:19.544 [qtp1789791855-16] DEBUG com.alibaba.druid.pool.PreparedStatementPool -{conn-10001, pstmt-20001} enter cache
+11:05:19.557 [qtp1789791855-16] DEBUG org.mybatis.spring.SqlSessionUtils -Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2aeb6ece]
+11:05:45.992 [qtp1789791855-16] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2aeb6ece]
+11:05:46.173 [qtp1789791855-16] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2aeb6ece]
+11:05:46.176 [qtp1789791855-16] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2aeb6ece]
+11:20:04.692 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+11:20:05.103 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+11:20:05.137 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+11:20:05.141 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+11:20:05.153 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+11:20:05.155 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+11:20:05.158 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+11:20:05.167 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+11:20:05.174 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+11:20:05.178 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+11:20:05.416 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+11:20:05.417 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+11:20:05.417 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+11:20:05.421 [net.sf.ehcache.CacheManager@6c8e5ac4] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+11:20:05.538 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+11:20:05.566 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+11:20:05.571 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+11:20:05.971 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\CustomerMapper.xml]'
+11:20:06.989 [net.sf.ehcache.CacheManager@6c8e5ac4] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+11:25:44.903 [qtp937936076-18] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+11:28:07.637 [qtp937936076-18] DEBUG org.mybatis.spring.SqlSessionUtils -Creating a new SqlSession
+11:28:07.974 [qtp937936076-18] DEBUG org.mybatis.spring.SqlSessionUtils -Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2770f5c]
+11:28:08.041 [qtp937936076-18] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore miss for -517509779
+11:28:08.044 [qtp937936076-18] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDao cache - Miss
+11:28:08.047 [qtp937936076-18] DEBUG com.le.isell.dao.CustomerDao -Cache Hit Ratio [com.le.isell.dao.CustomerDao]: 0.0
+11:28:08.269 [qtp937936076-18] DEBUG o.m.spring.transaction.SpringManagedTransaction -JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@71f55de] will be managed by Spring
+11:28:08.946 [qtp937936076-18] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -==>  Preparing: select * from tb_customer where customerId=? 
+11:28:12.447 [qtp937936076-18] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -==> Parameters: 2(String)
+11:28:14.852 [qtp937936076-18] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -<==      Total: 1
+11:28:14.858 [qtp937936076-18] DEBUG com.alibaba.druid.pool.PreparedStatementPool -{conn-10001, pstmt-20001} enter cache
+11:28:14.873 [qtp937936076-18] DEBUG org.mybatis.spring.SqlSessionUtils -Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2770f5c]
+11:28:33.382 [qtp937936076-18] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2770f5c]
+11:28:33.449 [qtp937936076-18] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2770f5c]
+11:28:33.452 [qtp937936076-18] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2770f5c]
+11:32:21.603 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+11:32:21.930 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+11:32:22.046 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\CartMapper.xml]'
+11:32:22.070 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+11:32:22.074 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+11:32:22.091 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+11:32:22.094 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+11:32:22.097 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+11:32:22.105 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+11:32:22.111 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+11:32:22.115 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+11:32:22.343 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+11:32:22.343 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+11:32:22.344 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+11:32:22.348 [net.sf.ehcache.CacheManager@999cd18] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+11:32:22.365 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+11:32:22.386 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+11:32:22.389 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+11:32:22.434 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\CustomerMapper.xml]'
+11:32:22.757 [net.sf.ehcache.CacheManager@999cd18] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+11:33:39.609 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+11:33:39.964 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+11:33:40.156 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\CartMapper.xml]'
+11:33:40.183 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+11:33:40.198 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+11:33:40.208 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+11:33:40.210 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+11:33:40.213 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+11:33:40.221 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+11:33:40.233 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+11:33:40.237 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+11:33:40.464 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+11:33:40.464 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+11:33:40.464 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+11:33:40.468 [net.sf.ehcache.CacheManager@341964d0] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+11:33:40.485 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+11:33:40.512 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+11:33:40.515 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+11:33:40.547 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\CustomerMapper.xml]'
+11:33:40.864 [net.sf.ehcache.CacheManager@341964d0] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+11:33:41.229 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\FileMapper.xml]'
+11:33:41.824 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\GoodsMapper.xml]'
+11:33:42.436 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\OrderDetailMapper.xml]'
+11:33:43.041 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\OrderMapper.xml]'
+11:33:43.664 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-front-web\target\classes\mapper\StoreMapper.xml]'
+11:42:16.640 [qtp930569137-16] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+11:42:34.540 [qtp930569137-16] DEBUG org.mybatis.spring.SqlSessionUtils -Creating a new SqlSession
+11:42:34.870 [qtp930569137-16] DEBUG org.mybatis.spring.SqlSessionUtils -Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@26f51e88]
+11:42:34.932 [qtp930569137-16] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore miss for -517509779
+11:42:34.935 [qtp930569137-16] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDao cache - Miss
+11:42:34.938 [qtp930569137-16] DEBUG com.le.isell.dao.CustomerDao -Cache Hit Ratio [com.le.isell.dao.CustomerDao]: 0.0
+11:42:35.156 [qtp930569137-16] DEBUG o.m.spring.transaction.SpringManagedTransaction -JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@6ef57bf2] will be managed by Spring
+11:42:35.818 [qtp930569137-16] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -==>  Preparing: select * from tb_customer where customerId=? 
+11:42:39.307 [qtp930569137-16] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -==> Parameters: 2(String)
+11:42:41.726 [qtp930569137-16] DEBUG com.le.isell.dao.CustomerDao.getByCustomerId -<==      Total: 1
+11:42:41.732 [qtp930569137-16] DEBUG com.alibaba.druid.pool.PreparedStatementPool -{conn-10001, pstmt-20001} enter cache
+11:42:41.748 [qtp930569137-16] DEBUG org.mybatis.spring.SqlSessionUtils -Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@26f51e88]
+11:42:44.423 [qtp930569137-16] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@26f51e88]
+11:42:44.497 [qtp930569137-16] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@26f51e88]
+11:42:44.501 [qtp930569137-16] DEBUG org.mybatis.spring.SqlSessionUtils -Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@26f51e88]
+11:42:58.078 [qtp930569137-16] DEBUG org.mybatis.spring.SqlSessionUtils -Creating a new SqlSession
+11:42:58.083 [qtp930569137-16] DEBUG org.mybatis.spring.SqlSessionUtils -SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2f5cff7d] was not registered for synchronization because synchronization is not active
+11:42:58.500 [qtp930569137-16] DEBUG o.m.spring.transaction.SpringManagedTransaction -JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@6ef57bf2] will not be managed by Spring
+11:42:58.509 [qtp930569137-16] DEBUG com.le.isell.dao.GoodsDao.getByConditionPage -==>  Preparing: select count(0) from (select * from tb_goods) as tmp_count 
+11:42:58.524 [qtp930569137-16] DEBUG com.le.isell.dao.GoodsDao.getByConditionPage -==> Parameters: 
+11:42:58.539 [qtp930569137-16] DEBUG com.alibaba.druid.pool.PreparedStatementPool -{conn-10001, pstmt-20002} enter cache
+11:42:58.545 [qtp930569137-16] DEBUG com.le.isell.dao.GoodsDao.getByConditionPage -==>  Preparing: select * from tb_goods limit 0,100 
+11:42:58.557 [qtp930569137-16] DEBUG com.le.isell.dao.GoodsDao.getByConditionPage -==> Parameters: 
+11:42:58.570 [qtp930569137-16] DEBUG com.le.isell.dao.GoodsDao.getByConditionPage -<==      Total: 0
+11:42:58.575 [qtp930569137-16] DEBUG com.alibaba.druid.pool.PreparedStatementPool -{conn-10001, pstmt-20003} enter cache
+11:42:58.578 [qtp930569137-16] DEBUG org.mybatis.spring.SqlSessionUtils -Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2f5cff7d]

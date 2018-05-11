@@ -1,0 +1,47 @@
+08:55:57.092 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+08:55:57.468 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+08:55:57.469 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+09:10:32.939 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+09:10:33.317 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+09:10:33.318 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+09:15:54.959 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+09:15:55.216 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+09:15:55.217 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+09:18:04.129 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+09:18:04.317 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+09:18:04.318 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+09:19:44.391 [Scanner-0] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+09:19:44.675 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+09:19:44.676 [Scanner-0] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
+10:49:27.426 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+10:49:27.797 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+10:49:27.819 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+10:49:27.822 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+10:49:27.827 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+10:49:27.829 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+10:49:27.831 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+10:49:27.834 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+10:49:27.838 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+10:49:27.840 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+10:49:28.018 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+10:49:28.018 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+10:49:28.018 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+10:49:28.022 [net.sf.ehcache.CacheManager@16f7f59f] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+10:49:28.036 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+10:49:28.056 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+10:49:28.058 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+10:49:28.122 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\isell-customer-web\WEB-INF\classes\com\le\isell\dao\CustomerMapper.xml]'
+10:49:28.587 [net.sf.ehcache.CacheManager@16f7f59f] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+10:51:28.820 [qtp1454922150-14] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+10:51:28.912 [qtp1454922150-14] DEBUG com.alibaba.druid.pool.PreparedStatementPool -{conn-10001, pstmt-20001} enter cache
+10:51:45.729 [qtp1454922150-15] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore miss for -1625865676
+10:51:45.729 [qtp1454922150-15] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDao cache - Miss
+10:51:45.748 [qtp1454922150-15] DEBUG com.alibaba.druid.pool.PreparedStatementPool -{conn-10001, pstmt-20002} enter cache
+10:51:45.760 [qtp1454922150-15] DEBUG com.alibaba.druid.pool.PreparedStatementPool -{conn-10001, pstmt-20003} enter cache
+10:52:09.970 [qtp1454922150-14] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore hit for -1625865676
+10:52:13.180 [qtp1454922150-19] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore hit for -1625865676
+10:52:16.065 [qtp1454922150-18] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore hit for -1625865676
+10:52:22.375 [qtp1454922150-15] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore hit for -1625865676
+10:52:23.503 [qtp1454922150-16] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore hit for -1625865676
+10:52:27.056 [qtp1454922150-21] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore hit for -1625865676
+10:52:32.277 [qtp1454922150-19] DEBUG net.sf.ehcache.Cache -com.le.isell.dao.CustomerDaoCache: com.le.isell.dao.CustomerDaoMemoryStore hit for -1625865676

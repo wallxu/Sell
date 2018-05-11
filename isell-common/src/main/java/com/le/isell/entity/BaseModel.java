@@ -20,6 +20,9 @@ public class BaseModel implements Serializable{
     }
 
     public Page getPage() {
+        if (page == null){
+            this.page = new Page();
+        }
         return page;
     }
 

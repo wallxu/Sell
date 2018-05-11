@@ -1,10 +1,8 @@
 com\le\isell\web\BaseWebModel.class
 com\le\isell\dao\BaseDao.class
-com\le\isell\util\json\JsonHelper.class
 com\le\isell\util\pageutil\ReflectHelper.class
 com\le\isell\service\BaseService.class
 com\le\isell\entity\BaseModel.class
-com\le\isell\util\pageutil\Page.class
 com\le\isell\util\format\DateFormatHelper.class
 com\le\isell\service\impl\BaseServiceImpl.class
 com\le\isell\util\pageutil\PagePlugin.class

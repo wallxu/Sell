@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<typeAliases>
+		<typeAlias type="com.le.isell.entity.CustomerModel" alias="CM"/>
+		<typeAlias type="com.le.isell.entity.CustomerQueryModel" alias="CQM"/>
+		<typeAlias type="com.le.isell.entity.GoodsModel" alias="GM"/>
+		<typeAlias type="com.le.isell.entity.GoodsQueryModel" alias="GQM"/>
+		<typeAlias type="com.le.isell.entity.CartModel" alias="CartM"/>
+		<typeAlias type="com.le.isell.entity.CartQueryModel" alias="CartQM"/>
+		<typeAlias type="com.le.isell.entity.OrderModel" alias="OM"/>
+		<typeAlias type="com.le.isell.entity.OrderQueryModel" alias="OQM"/>
+		<typeAlias type="com.le.isell.entity.OrderDetailModel" alias="ODM"/>
+		<typeAlias type="com.le.isell.entity.OrderDetailQueryModel" alias="ODQM"/>
+		<typeAlias type="com.le.isell.entity.StoreModel" alias="StoreM"/>
+		<typeAlias type="com.le.isell.entity.StoreQueryModel" alias="StoreQM"/>
+		<typeAlias alias="FileM" type="com.le.isell.entity.FileModel"/>
+		<typeAlias alias="FileQM" type="com.le.isell.entity.FileQueryModel"/>
+	</typeAliases>
+	<plugins>
+		<plugin interceptor="com.le.isell.util.pageutil.PagePlugin">
+			<property name="dialect" value="mysql"/>
+			<property name="pageSqlId" value=".*Page.*"/>
+		</plugin>
+	</plugins>
+</configuration> 

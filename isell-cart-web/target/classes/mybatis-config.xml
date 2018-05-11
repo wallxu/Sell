@@ -15,6 +15,11 @@
         <!-- 根据包取别名，把包下面的所有类都按类名来取别名 -->
         <!-- 这用可以简化代码量 -->
     </typeAliases>
-
+    <plugins>
+        <plugin interceptor="com.le.isell.util.pageutil.PagePlugin">
+            <property name="dialect" value="mysql" />
+            <property name="pageSqlId" value=".*Page.*" />
+        </plugin>
+    </plugins>
 
 </configuration>

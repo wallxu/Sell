@@ -27,6 +27,7 @@
         <module name="isell-common" />
         <module name="isell-customer-web" />
         <module name="isell-file-web" />
+        <module name="isell-front-web" />
         <module name="isell-goods-mgr" />
         <module name="isell-goods-web" />
         <module name="isell-order-web" />
@@ -40,6 +41,7 @@
       <module name="isell-common" target="1.8" />
       <module name="isell-customer-web" target="1.8" />
       <module name="isell-file-web" target="1.8" />
+      <module name="isell-front-web" target="1.8" />
       <module name="isell-goods-mgr" target="1.8" />
       <module name="isell-goods-web" target="1.8" />
       <module name="isell-order-web" target="1.8" />

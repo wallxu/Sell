@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="isell-store-web:war">
     <output-path>$PROJECT_DIR$/isell-store-web/target</output-path>
-    <root id="archive" name="iSell.war">
+    <root id="archive" name="isell-store-web.war">
       <element id="artifact" artifact-name="isell-store-web:war exploded" />
     </root>
   </artifact>

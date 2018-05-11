@@ -1,0 +1,421 @@
+17:13:18.303 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:13:18.864 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:13:18.932 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:13:18.946 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:13:18.959 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:13:18.961 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:13:18.964 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:13:18.982 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:13:18.989 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:13:18.992 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:13:19.243 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:13:19.243 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:13:19.244 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:13:19.246 [net.sf.ehcache.CacheManager@35a60674] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:13:19.310 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:13:19.322 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:13:19.325 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:13:19.466 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:13:19.625 [net.sf.ehcache.CacheManager@35a60674] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:21:39.805 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:21:40.155 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:21:40.201 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:21:40.205 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:21:40.214 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:21:40.216 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:21:40.219 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:21:40.245 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:21:40.249 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:21:40.252 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:21:40.276 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:21:40.276 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:21:40.276 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:21:40.280 [net.sf.ehcache.CacheManager@66c66997] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:21:40.300 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:21:40.311 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:21:40.316 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:21:40.385 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:21:40.667 [net.sf.ehcache.CacheManager@66c66997] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:21:49.245 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:21:49.471 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:21:49.502 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:21:49.505 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:21:49.512 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:21:49.514 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:21:49.517 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:21:49.525 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:21:49.528 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:21:49.530 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:21:49.544 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:21:49.544 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:21:49.544 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:21:49.546 [net.sf.ehcache.CacheManager@7e4d68fa] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:21:49.556 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:21:49.562 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:21:49.565 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:21:49.618 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:21:49.874 [net.sf.ehcache.CacheManager@7e4d68fa] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:22:09.493 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:22:09.905 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:22:09.932 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:22:09.935 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:22:09.943 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:22:09.944 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:22:09.947 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:22:09.952 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:22:09.957 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:22:09.960 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:22:09.979 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:22:09.979 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:22:09.979 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:22:09.982 [net.sf.ehcache.CacheManager@191c3848] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:22:09.994 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:22:10.004 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:22:10.006 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:22:10.112 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:22:10.330 [net.sf.ehcache.CacheManager@191c3848] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:22:37.679 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:22:38.055 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:22:38.091 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:22:38.098 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:22:38.112 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:22:38.114 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:22:38.119 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:22:38.128 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:22:38.139 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:22:38.142 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:22:38.733 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:22:38.734 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:22:38.734 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:22:38.738 [net.sf.ehcache.CacheManager@d5af0a5] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:22:38.768 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:22:38.785 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:22:38.789 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:22:38.904 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:22:39.142 [net.sf.ehcache.CacheManager@d5af0a5] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:23:33.766 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:23:34.133 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:23:34.176 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:23:34.180 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:23:34.193 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:23:34.195 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:23:34.199 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:23:34.207 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:23:34.213 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:23:34.222 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:23:34.614 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:23:34.614 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:23:34.614 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:23:34.619 [net.sf.ehcache.CacheManager@5a75ec37] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:23:34.634 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:23:34.652 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:23:34.657 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:23:34.721 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:23:34.994 [net.sf.ehcache.CacheManager@5a75ec37] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:38:42.710 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:38:43.055 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:38:43.099 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:38:43.103 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:38:43.120 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:38:43.122 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:38:43.125 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:38:43.133 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:38:43.148 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:38:43.151 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:38:43.517 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:38:43.517 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:38:43.517 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:38:43.528 [net.sf.ehcache.CacheManager@6920b0bc] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:38:43.550 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:38:43.571 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:38:43.578 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:38:43.662 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:38:43.916 [net.sf.ehcache.CacheManager@6920b0bc] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:42:38.459 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:42:38.811 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:42:38.846 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:42:38.850 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:42:38.863 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:42:38.865 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:42:38.868 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:42:38.874 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:42:38.879 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:42:38.882 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:42:38.911 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:42:38.912 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:42:38.912 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:42:38.916 [net.sf.ehcache.CacheManager@82902a2] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:42:38.928 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:42:38.952 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:42:38.955 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:42:39.033 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:42:39.302 [net.sf.ehcache.CacheManager@82902a2] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:42:47.803 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:42:48.324 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:42:48.353 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:42:48.357 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:42:48.365 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:42:48.366 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:42:48.369 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:42:48.376 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:42:48.382 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:42:48.385 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:42:48.454 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:42:48.454 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:42:48.454 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:42:48.465 [net.sf.ehcache.CacheManager@169a6b65] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:42:48.470 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:42:48.479 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:42:48.486 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:42:48.571 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:42:48.906 [net.sf.ehcache.CacheManager@169a6b65] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:42:58.287 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:42:58.600 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:42:58.673 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:42:58.677 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:42:58.687 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:42:58.689 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:42:58.693 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:42:58.701 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:42:58.707 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:42:58.710 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:42:58.734 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:42:58.735 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:42:58.736 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:42:58.741 [net.sf.ehcache.CacheManager@386f3457] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:42:58.760 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:42:58.772 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:42:58.775 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:42:58.865 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:42:59.058 [net.sf.ehcache.CacheManager@386f3457] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:43:08.205 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:43:08.556 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:43:08.579 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:43:08.583 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:43:08.592 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:43:08.594 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:43:08.601 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:43:08.610 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:43:08.615 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:43:08.618 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:43:08.646 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:43:08.646 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:43:08.646 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:43:08.652 [net.sf.ehcache.CacheManager@4278ffd9] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:43:08.664 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:43:08.680 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:43:08.683 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:43:08.796 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:43:08.988 [net.sf.ehcache.CacheManager@4278ffd9] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:43:17.873 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:43:18.265 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:43:18.288 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:43:18.292 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:43:18.297 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:43:18.299 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:43:18.301 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:43:18.310 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:43:18.314 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:43:18.317 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:43:18.329 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:43:18.329 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:43:18.329 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:43:18.331 [net.sf.ehcache.CacheManager@664eca88] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:43:18.343 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:43:18.349 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:43:18.351 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:43:18.426 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:43:18.661 [net.sf.ehcache.CacheManager@664eca88] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:43:53.744 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:43:54.117 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:43:54.144 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:43:54.148 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:43:54.158 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:43:54.160 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:43:54.165 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:43:54.172 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:43:54.177 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:43:54.180 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:43:54.250 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:43:54.251 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:43:54.251 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:43:54.261 [net.sf.ehcache.CacheManager@6839702a] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:43:54.276 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:43:54.287 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:43:54.290 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:43:54.358 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:43:54.605 [net.sf.ehcache.CacheManager@6839702a] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:52:32.868 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:52:33.112 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:52:33.141 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:52:33.145 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:52:33.175 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:52:33.177 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:52:33.180 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:52:33.186 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:52:33.191 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:52:33.194 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:52:33.217 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:52:33.217 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:52:33.217 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:52:33.221 [net.sf.ehcache.CacheManager@7153549a] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:52:33.231 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:52:33.247 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:52:33.249 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:52:33.323 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:52:33.600 [net.sf.ehcache.CacheManager@7153549a] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:52:47.758 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:52:48.028 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:52:48.050 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:52:48.055 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:52:48.063 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:52:48.065 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:52:48.068 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:52:48.074 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:52:48.078 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:52:48.081 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:52:48.097 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:52:48.098 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:52:48.098 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:52:48.100 [net.sf.ehcache.CacheManager@ae216a1] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:52:48.113 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:52:48.122 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:52:48.125 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:52:48.181 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:52:48.414 [net.sf.ehcache.CacheManager@ae216a1] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:52:57.731 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:52:57.933 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:52:57.961 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:52:57.966 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:52:57.976 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:52:57.978 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:52:57.982 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:52:57.988 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:52:57.994 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:52:57.997 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:52:58.044 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:52:58.044 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:52:58.044 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:52:58.047 [net.sf.ehcache.CacheManager@75240cb6] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:52:58.063 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:52:58.071 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:52:58.074 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:52:58.133 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:52:58.361 [net.sf.ehcache.CacheManager@75240cb6] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:54:03.773 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:54:04.728 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:54:04.755 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:54:04.759 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:54:04.768 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:54:04.770 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:54:04.773 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:54:04.780 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:54:04.785 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:54:04.794 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:54:04.813 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:54:04.813 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:54:04.813 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:54:04.817 [net.sf.ehcache.CacheManager@49901db7] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:54:04.831 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:54:04.849 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:54:04.853 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:54:05.167 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:54:05.754 [net.sf.ehcache.CacheManager@49901db7] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:59:34.143 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:59:34.445 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:59:34.531 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:59:34.537 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:59:34.587 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:59:34.604 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:59:34.607 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:59:34.614 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:59:34.619 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:59:34.622 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:59:34.644 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:59:34.644 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:59:34.645 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:59:34.658 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:59:34.670 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:59:34.674 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:59:34.676 [net.sf.ehcache.CacheManager@1e99a65f] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:59:34.776 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:59:35.175 [net.sf.ehcache.CacheManager@1e99a65f] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+17:59:39.061 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:59:39.346 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+17:59:39.384 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+17:59:39.388 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+17:59:39.396 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+17:59:39.399 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+17:59:39.403 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+17:59:39.413 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+17:59:39.419 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+17:59:39.423 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+17:59:39.445 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+17:59:39.445 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+17:59:39.445 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+17:59:39.459 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+17:59:39.473 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+17:59:39.475 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+17:59:39.556 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+17:59:39.750 [net.sf.ehcache.CacheManager@6345698d] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+17:59:40.238 [net.sf.ehcache.CacheManager@6345698d] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+18:00:49.002 [Timer-1] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+18:00:49.435 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+18:00:49.469 [Timer-1] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+18:00:49.473 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+18:00:49.480 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+18:00:49.483 [Timer-1] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+18:00:49.486 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+18:00:49.492 [Timer-1] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+18:00:49.496 [Timer-1] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+18:00:49.505 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+18:00:49.528 [Timer-1] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+18:00:49.529 [Timer-1] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+18:00:49.529 [Timer-1] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+18:00:49.532 [net.sf.ehcache.CacheManager@661c8851] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+18:00:49.547 [Timer-1] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+18:00:49.556 [Timer-1] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+18:00:49.559 [Timer-1] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+18:00:49.621 [Timer-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\classes\com\le\isell\dao\CustomerMapper.xml]'
+18:00:49.931 [net.sf.ehcache.CacheManager@661c8851] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+18:06:32.262 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+18:06:32.718 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+18:06:32.779 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+18:06:32.783 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+18:06:32.793 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+18:06:32.795 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+18:06:32.799 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+18:06:32.806 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+18:06:32.812 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+18:06:32.815 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+18:06:33.183 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+18:06:33.184 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+18:06:33.184 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+18:06:33.187 [net.sf.ehcache.CacheManager@24c94e95] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+18:06:33.206 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+18:06:33.225 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+18:06:33.227 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+18:06:33.303 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\isell-customer-web\WEB-INF\classes\com\le\isell\dao\CustomerMapper.xml]'
+18:06:33.602 [net.sf.ehcache.CacheManager@24c94e95] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+18:08:07.912 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+18:08:08.329 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+18:08:08.401 [main] DEBUG net.sf.ehcache.CacheManager -Creating new CacheManager with InputStream
+18:08:08.405 [main] DEBUG net.sf.ehcache.config.ConfigurationFactory -Configuring ehcache from InputStream
+18:08:08.418 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xmlns:xsi
+18:08:08.421 [main] DEBUG net.sf.ehcache.config.BeanHandler -Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+18:08:08.424 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: C:\Users\Administrator\AppData\Local\Temp\
+18:08:08.432 [main] DEBUG net.sf.ehcache.config.DiskStoreConfiguration -Disk Store Path: H:/cache
+18:08:08.438 [main] DEBUG net.sf.ehcache.util.PropertyUtil -propertiesString is null.
+18:08:08.441 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheManagerEventListenerFactory class specified. Skipping...
+18:08:08.798 [main] DEBUG net.sf.ehcache.Cache -No BootstrapCacheLoaderFactory class specified. Skipping...
+18:08:08.798 [main] DEBUG net.sf.ehcache.Cache -CacheWriter factory not configured. Skipping...
+18:08:08.798 [main] DEBUG net.sf.ehcache.config.ConfigurationHelper -No CacheExceptionHandlerFactory class specified. Skipping...
+18:08:08.801 [net.sf.ehcache.CacheManager@2e5dea22] DEBUG net.sf.ehcache.util.UpdateChecker -Checking for update...
+18:08:08.815 [main] DEBUG net.sf.ehcache.store.DiskStore -Deleting data file com.le.isell.dao.CustomerDao.data
+18:08:08.830 [main] DEBUG net.sf.ehcache.store.MemoryStore -Initialized net.sf.ehcache.store.MemoryStore for com.le.isell.dao.CustomerDao
+18:08:08.833 [main] DEBUG net.sf.ehcache.Cache -Initialised cache: com.le.isell.dao.CustomerDao
+18:08:08.919 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed mapper file: 'file [H:\ideaWorkSpace\iSell\isell-customer-web\target\isell-customer-web\WEB-INF\classes\com\le\isell\dao\CustomerMapper.xml]'
+18:08:09.176 [net.sf.ehcache.CacheManager@2e5dea22] DEBUG net.sf.ehcache.util.UpdateChecker -Update check failed: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.terracotta.org/kit/reflector?kitID=ehcache.default&pageID=update.properties&id=-1442957515&os-name=Windows+7&jvm-name=Java+HotSpot%28TM%29+64-Bit+Server+VM&jvm-version=1.8.0_71&platform=amd64&tc-version=UNKNOWN&tc-product=Ehcache+Core+2.0.0&source=Ehcache+Core&uptime-secs=0&patch=UNKNOWN
+18:33:02.103 [main] DEBUG org.apache.ibatis.logging.LogFactory -Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+18:33:02.656 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Parsed configuration file: 'class path resource [mybatis-config.xml]'
+18:33:02.657 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean -Property 'mapperLocations' was not specified or no matching resources found
